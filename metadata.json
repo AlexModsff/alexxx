@@ -1,0 +1,6 @@
+{
+  "name": "Alex Keys - Drip Client Generator",
+  "description": "Un generador de llaves para Drip Client con acceso bloqueado por suscripciones. Genere llaves personalizadas de 10 dígitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
